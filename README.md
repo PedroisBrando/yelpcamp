@@ -1,4 +1,4 @@
-# Yelp-Camp
+# YelpCamp
 
 YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of Colt Steele's web dev course on udemy.
 
@@ -28,4 +28,4 @@ API_SECRET='<secret>'
 4. Run mongod in another terminal and node app.js in the terminal with the project.
 5. Then go to localhost:3000.
 
-To get google maps working check this out.
+To get google maps working check [this](https://github.com/nax3t/google-maps-api) out.
